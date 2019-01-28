@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="origin" fetch="https://github.com/LittlelyBear/iot_update"/>
-	<project path="src/iot_update" name="iot_update" remote="origin" revision="master" >
+	<project path="src/iot_update" name=".git" remote="origin" revision="master" >
 	</project>
 </manifest>
 
