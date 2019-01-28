@@ -1,0 +1,2 @@
+# platform-manifest
+manifest test
